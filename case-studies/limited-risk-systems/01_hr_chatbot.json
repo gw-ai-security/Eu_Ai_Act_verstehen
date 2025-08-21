@@ -1,0 +1,28 @@
+{
+  "scenario": "HR-Chatbot für interne Anfragen",
+  "risk_level": "limited",
+  "articles": ["Art. 52", "Art. 10", "Art. 15"],
+  "security_challenges": [
+    "Datenlecks durch unsichere Schnittstellen",
+    "Prompt Injection Angriffe",
+    "Veraltete Wissensdaten",
+    "Fehlende Transparenz"
+  ],
+  "recommendations": {
+    "technical": ["RBAC", "Input-Filter", "Wissensbasis-Updates"],
+    "organizational": ["Transparenzhinweis", "HR-Reviews"],
+    "process": ["Incident-Response-Plan", "Red Teaming"]
+  },
+  "roadmap": [
+    "Transparenzbanner implementieren",
+    "RBAC/API-Gateways nutzen",
+    "Prompt Injection Tests einführen",
+    "Regelmäßige HR-Reviews durchführen"
+  ],
+  "metrics": {
+    "accuracy": "≥ 95 % korrekte Antworten",
+    "security": "Blockierte Prompt Injection Attempts",
+    "data_quality": "Updates alle 30 Tage",
+    "user_experience": "Nutzerfeedback-Vertrauen"
+  }
+}
