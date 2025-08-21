@@ -7,19 +7,19 @@ tags: [AI Act, DSGVO, Cybersecurity, Fundamentals, Bloom-Level-1]
 
 # Lesson 01: Grundlagen des EU AI Act & Cybersecurity-relevante Artikel
 
-## 🎯 Lernziel
+## Lernziel
 Verstehen der **Grundkategorien von KI-Systemen** nach EU AI Act und Identifikation der **Cybersecurity-relevanten Artikel (Art. 9, 10, 13–16)**.  
 Dies ist die erste Stufe (Erinnern) nach der Bloomschen Taxonomie.
 
 ---
 
-## 📘 Aufgabe (Level 1 – Erinnern)
+## Aufgabe (Level 1 – Erinnern)
 **Frage:**  
 *Nenne die Hauptkategorien von KI-Systemen gemäß EU AI Act und identifiziere die für Cybersecurity relevantesten Artikel (Art. 9, 10, 13–16). Erkläre deren Grundinhalt.*
 
 ---
 
-## ✅ Lösungserwartung
+## Lösungserwartung
 
 ### Kategorien von KI-Systemen (risikobasiert nach EU AI Act)
 1. **Verbotene KI-Systeme** – unzulässige Praktiken (z. B. Social Scoring, manipulative Subliminal-Techniken).  
