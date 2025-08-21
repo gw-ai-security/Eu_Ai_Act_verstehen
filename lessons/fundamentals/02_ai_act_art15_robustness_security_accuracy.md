@@ -7,19 +7,19 @@ tags: [AI Act, Cybersecurity, Robustness, Accuracy, Bloom-Level-2]
 
 # Lesson 02: Art. 15 EU AI Act – Robustheit, Sicherheit und Genauigkeit
 
-## 🎯 Lernziel
+## Lernziel
 Verstehen der **Bedeutung von Art. 15 EU AI Act** für Hochrisiko-KI-Systeme und Ableitung praktischer AI/IT-Sicherheitsmaßnahmen.  
 Dies ist die zweite Stufe (Verstehen) nach der Bloomschen Taxonomie.
 
 ---
 
-## 📘 Aufgabe (Level 2 – Verstehen)
+## Aufgabe (Level 2 – Verstehen)
 **Frage:**  
 *Erläutere die Bedeutung von „Robustheit, Sicherheit und Genauigkeit“ (Art. 15) für Hochrisiko-KI-Systeme. Welche spezifischen AI/IT-Sicherheitsmaßnahmen leiten sich daraus ab?*
 
 ---
 
-## ✅ Lösungserwartung
+## Lösungserwartung
 
 ### Bedeutung Art. 15 EU AI Act
 - **Robustheit** → Das KI-System muss zuverlässig funktionieren, auch bei Angriffen, Fehlern oder ungewöhnlichen Eingaben.  
@@ -36,7 +36,7 @@ Dies ist die zweite Stufe (Verstehen) nach der Bloomschen Taxonomie.
 
 ---
 
-## 🛠 Praxis-Transfer
+## Praxis-Transfer
 **Beispiel: KI-System zur Kreditwürdigkeitsprüfung (High-Risk)**  
 - **Robustheit**: Schutz gegen Datenvergiftung im Training.  
 - **Sicherheit**: Absicherung der API-Schnittstellen gegen Manipulation.  
@@ -44,7 +44,7 @@ Dies ist die zweite Stufe (Verstehen) nach der Bloomschen Taxonomie.
 
 ---
 
-## 📌 Nächste Schritte
+## Nächste Schritte
 - Übergang zu Level 3 (Anwenden):  
   Szenario *Predictive Maintenance* – welche AI Act-Anforderungen müssen dort konkret umgesetzt werden?
 
