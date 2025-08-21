@@ -1,102 +1,160 @@
 ---
-title: Glossar – EU AI Act & IT-Security
-version: 1.0
+title: Glossary – EU AI Act & AI/IT Security
+version: 1.1
 last_updated: 2025-08-21
-tags: [Glossar, AI Act, DSGVO, Security, Compliance]
+tags: [Glossary, AI Act, DSGVO, IT Security, Compliance]
 ---
 
-# Glossar – EU AI Act & IT-Security
-
-Dieses Glossar erklärt zentrale Begriffe im Kontext des EU AI Act, der DSGVO und IT-/AI-Security.
-
----
+# Glossary – EU AI Act & AI/IT Security
 
 ## A
-- **AI Act**: EU-Verordnung (2024/1689) zur Regulierung von Künstlicher Intelligenz, risikobasiert.  
-- **Adversarial Attack**: Angriff, der Modelle durch gezielte Störungen täuscht.  
-- **Audit Trail**: Revisionssichere Protokollierung aller Ereignisse und Änderungen.
+
+- **AI Act (EU KI-Verordnung)**  
+  Rechtsrahmen der EU zur Regulierung von KI-Systemen basierend auf Risikoklassen.
+
+- **Adversarial Attack**  
+  Manipulation von Eingaben, um KI-Modelle gezielt zu täuschen.
+
+- **API Security**  
+  Schutz von Schnittstellen, die KI-Modelle bereitstellen, vor Missbrauch oder Angriffen.
 
 ## B
-- **Bias**: Systematische Verzerrung von Daten oder Modellen, die zu unfairen Ergebnissen führt.  
-- **Business Continuity**: Fähigkeit, Geschäftsprozesse trotz Störungen aufrechtzuerhalten.
+
+- **Bias**  
+  Systematische Verzerrung in Daten oder Modellen, die diskriminierende Ergebnisse erzeugt.
+
+- **Black Box Testing**  
+  Sicherheits- und Funktionstests ohne Einblick in den internen Modellcode.
 
 ## C
-- **Case Study**: Praxisfall zur Anwendung von AI-Act- und Security-Anforderungen.  
-- **Compliance**: Einhaltung gesetzlicher und regulatorischer Anforderungen.  
-- **Confidentiality**: Schutzziel der Informationssicherheit – Schutz vor unbefugtem Zugriff.
+
+- **Case Study (Fallstudie)**  
+  Dokumentierte Analyse eines KI-Systems im Hinblick auf AI Act Compliance und Security.
+
+- **Compliance**  
+  Einhaltung gesetzlicher, regulatorischer und normativer Anforderungen.
+
+- **Control (Kontrolle)**  
+  Sicherheitsmaßnahme zur Risikobegrenzung.
 
 ## D
-- **Data Governance**: Steuerung und Kontrolle von Datenqualität, Herkunft und Nutzung.  
-- **DPIA (Data Protection Impact Assessment)**: Datenschutz-Folgenabschätzung nach DSGVO Art. 35.  
-- **Drift**: Veränderung der Datenbasis oder Modellleistung im Laufe der Zeit.
+
+- **Data Governance**  
+  Steuerung und Qualitätssicherung von Daten, einschließlich Herkunft, Integrität und Schutz.
+
+- **Data Poisoning**  
+  Manipulation von Trainingsdaten, um Modelle unbemerkt zu schwächen.
+
+- **DPIA (Data Protection Impact Assessment)**  
+  Datenschutz-Folgenabschätzung nach DSGVO, analog zur FRA im AI Act.
 
 ## E
-- **ENISA**: EU-Agentur für Cybersicherheit.  
-- **Explainability**: Nachvollziehbarkeit der Funktionsweise von KI-Systemen.
+
+- **ENISA**  
+  EU-Agentur für Cybersicherheit, veröffentlicht AI Threat Landscape Reports.
+
+- **Explainability (Erklärbarkeit)**  
+  Fähigkeit, die Entscheidungslogik eines KI-Systems nachvollziehbar darzustellen.
 
 ## F
-- **Fairness**: Prinzip der Gleichbehandlung ohne diskriminierende Verzerrungen.  
-- **FRA (Fundamental Rights Assessment)**: Grundrechts-Folgenabschätzung nach AI Act.
+
+- **FRA (Fundamental Rights Assessment)**  
+  Grundrechts-Folgenabschätzung im Rahmen des AI Act.
 
 ## G
-- **GDPR (DSGVO)**: Datenschutz-Grundverordnung der EU.  
-- **Governance**: Rahmenwerk für Steuerung, Kontrolle und Verantwortlichkeiten.
+
+- **GDPR (DSGVO)**  
+  Datenschutz-Grundverordnung der EU, eng verzahnt mit AI Act.
+
+- **Governance**  
+  Rahmenwerk zur Steuerung von KI-Systemen (Policies, Verantwortlichkeiten, Prozesse).
 
 ## H
-- **High-Risk AI System**: KI-Systeme mit erheblichen Auswirkungen auf Sicherheit oder Grundrechte.  
-- **Human Oversight**: Menschliche Überwachung mit Möglichkeit zum Eingreifen.
+
+- **High-Risk AI System**  
+  KI-System, das in Annex III AI Act gelistet ist und strengen Pflichten unterliegt.
+
+- **Human Oversight**  
+  Menschliche Kontrolle und Eingriffsmöglichkeiten in KI-Systeme.
 
 ## I
-- **Incident Response**: Strukturierter Prozess zur Reaktion auf Sicherheitsvorfälle.  
-- **Integrity**: Schutzziel – Unverfälschtheit von Daten und Systemen.
+
+- **Incident Response (IR)**  
+  Geplanter Ablauf zur Reaktion auf Sicherheitsvorfälle.
+
+- **ISMS (Information Security Management System)**  
+  Rahmenwerk nach ISO/IEC 27001 für Informationssicherheitsmanagement.
 
 ## J
-- **JSON**: Datenformat zur strukturierten Speicherung von Informationen.
 
-## K
-- **KPI (Key Performance Indicator)**: Kennzahl zur Messung von Leistung oder Compliance.
+- **Jailbreak (LLM)**  
+  Umgehung von Sicherheitsmechanismen großer Sprachmodelle durch gezielte Eingaben.
 
 ## L
-- **LLM (Large Language Model)**: Sprachmodell, trainiert auf großen Textmengen.  
-- **Logging**: Aufzeichnung von System- und Nutzerereignissen.
+
+- **Limited-Risk AI System**  
+  KI-System mit geringerem Risiko, das vorrangig Transparenzpflichten (Art. 52 AI Act) erfüllen muss.
+
+- **Logging**  
+  Systematisches Aufzeichnen von Ereignissen zur Nachvollziehbarkeit.
 
 ## M
-- **Mitigation**: Maßnahme zur Risikoreduktion.  
-- **Monitoring**: Kontinuierliche Überwachung von Systemen und Prozessen.
+
+- **MLSBOM (Machine Learning Software Bill of Materials)**  
+  Inventar aller Modellbestandteile, Datenquellen und Abhängigkeiten.
+
+- **Monitoring**  
+  Laufende Überwachung von KI-Systemen (Performance, Security, Bias).
 
 ## N
-- **NIS2**: EU-Richtlinie zur Cybersicherheit kritischer Infrastrukturen.  
-- **NIST AI RMF**: Rahmenwerk des NIST für KI-Risikomanagement.
+
+- **NIST AI RMF**  
+  Risk Management Framework für KI-Systeme des US-NIST.
+
+- **NIS2**  
+  EU-Richtlinie zur Cybersicherheit für kritische Infrastrukturen.
 
 ## O
-- **OWASP Top 10 for LLM**: Liste der 10 größten Risiken für LLM-Anwendungen.  
+
+- **OWASP Top 10 for LLM**  
+  Liste der zehn größten Risiken bei Large Language Models (z. B. Prompt Injection).
 
 ## P
-- **Post-Market-Monitoring (PMM)**: Nachmarktüberwachung von Hochrisiko-KI-Systemen (AI Act Art. 21).  
-- **Privacy by Design**: Datenschutzprinzip der DSGVO (Art. 25).  
-- **Prompt Injection**: Angriff durch manipulierte Eingaben in LLMs.
+
+- **Post-Market Monitoring (PMM)**  
+  Laufende Marktüberwachungspflicht nach Art. 21 AI Act.
+
+- **Prompt Injection**  
+  Manipulation von Eingaben, um LLMs zu ungewollten Handlungen zu verleiten.
 
 ## R
-- **Red Teaming**: Simulation von Angriffen zur Schwachstellenerkennung.  
-- **Risk Register**: Dokumentation identifizierter Risiken, Bewertungen und Maßnahmen.
+
+- **Red Teaming**  
+  Simulation von Angriffen durch ein unabhängiges Team, um Schwachstellen zu identifizieren.
+
+- **Risk Register**  
+  Dokumentation aller identifizierten Risiken mit Bewertung und Maßnahmen.
 
 ## S
-- **Scope**: Anwendungsbereich eines Systems oder Assessments.  
-- **SIEM**: Security Information and Event Management System.  
-- **Supply Chain Risk**: Risiken durch Abhängigkeiten von Dritten.
+
+- **Secure SDLC**  
+  Sicherheitsorientierter Software Development Lifecycle.
+
+- **Shadow AI**  
+  Nicht autorisierte Nutzung von KI-Systemen außerhalb des Governance-Rahmens.
+
+- **Supply Chain Risk**  
+  Sicherheitsrisiken durch externe Komponenten oder Bibliotheken.
 
 ## T
-- **Template**: Vorlage zur strukturierten Dokumentation.  
-- **Threat Modeling**: Methodik zur Analyse von Bedrohungen (z. B. STRIDE, LINDDUN).
 
-## U
-- **Use Case**: Anwendungsfall eines KI-Systems.
+- **Threat Modeling**  
+  Systematische Identifizierung von Bedrohungen für ein System (z. B. STRIDE, LINDDUN).
 
-## V
-- **Vulnerability**: Schwachstelle in Software, Hardware oder Prozessen.
+- **Transparency Obligation**  
+  Pflicht zur Offenlegung der KI-Nutzung (Art. 52 AI Act).
 
-## W
-- **Watermarking**: Verfahren zum Schutz geistigen Eigentums in Modellen oder Daten.
+## Z
 
-## Y
-- **YAML**: Datenformat zur strukturierten Speicherung ähnlich wie JSON.
+- **Zero Trust**  
+  Sicherheitsprinzip: „Never trust, always verify“ – kontinuierliche Authentifizierung und Autorisierung.
