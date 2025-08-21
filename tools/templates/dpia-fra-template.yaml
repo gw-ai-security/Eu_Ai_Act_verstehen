@@ -1,0 +1,35 @@
+# DPIA & FRA YAML Template
+id: <assessment-id>
+system: <system-name>
+version: 1.0
+owner: <contact-email>
+scope:
+  purposes: ["<purpose-1>", "<purpose-2>"]
+  legal_basis: ["<DSGVO Rechtsgrundlage>"]
+  data_subjects: ["<Betroffene Gruppen>"]
+data_inventory:
+  categories: ["<Kategorie-1>", "<Kategorie-2>"]
+  special_categories: <true/false>
+risk_assessment:
+  privacy_risks: ["<Risiko 1>", "<Risiko 2>"]
+  security_risks: ["<Risiko 1>", "<Risiko 2>"]
+  ethics_fairness: ["<Bias/Fairness Risiken>"]
+controls:
+  technical: ["<Technische Maßnahme 1>", "<Technische Maßnahme 2>"]
+  organizational: ["<Organisatorische Maßnahme 1>", "<Organisatorische Maßnahme 2>"]
+  process: ["<Prozessmaßnahme 1>", "<Prozessmaßnahme 2>"]
+testing:
+  robustness: ["<Robustness Test 1>", "<Robustness Test 2>"]
+  bias: ["<Bias Test 1>", "<Bias Test 2>"]
+  privacy: ["<Privacy Test 1>", "<Privacy Test 2>"]
+  security: ["<Security Test 1>", "<Security Test 2>"]
+residual_risk:
+  level: "<low/medium/high>"
+  justification: "<Begründung für Rest-Risiko>"
+approval:
+  dpo_signoff: <true/false>
+  ciso_signoff: <true/false>
+  business_owner_signoff: <true/false>
+monitoring:
+  kpis: ["<KPI 1>", "<KPI 2>"]
+  review_cycle_days: <30/60/90>
