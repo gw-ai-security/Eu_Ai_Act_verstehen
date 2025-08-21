@@ -1,0 +1,35 @@
+---
+title: Machine Learning Software Bill of Materials (MLSBOM)
+version: 1.0
+last_updated: 2025-08-21
+tags: [MLSBOM, AI Act, Supply Chain, Security, Template]
+---
+
+# MLSBOM Template
+
+## Metadaten
+- **Systemname:**  
+- **Version:**  
+- **Erstellt am:**  
+- **Verantwortlich:**  
+
+## Modellinformationen
+- **Modelltyp:** (z. B. LLM, CNN, RNN)  
+- **Training Data Sources:**  
+- **Versionierung:**  
+- **Lizenzierung:**  
+
+## Abhängigkeiten
+- **Frameworks:** (TensorFlow, PyTorch, Scikit-learn, Transformers)  
+- **Bibliotheken:**  
+- **Externe APIs/Modelle:**  
+
+## Sicherheitsinformationen
+- **Hash/Signatur des Modells:**  
+- **Sicherheitsupdates:**  
+- **Vulnerability Checks (CVE, Dependency Scans):**  
+
+## Compliance-Referenzen
+- **AI Act Art. 15 & 16**  
+- **ISO/IEC 27001 Annex A.5.37 (Legal/Compliance)**  
+- **ENISA AI Threat Landscape (Supply Chain Risks)**  
