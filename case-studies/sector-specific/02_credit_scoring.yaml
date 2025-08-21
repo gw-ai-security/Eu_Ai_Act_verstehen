@@ -1,0 +1,24 @@
+scenario: Credit Scoring in Banking
+risk_level: high
+articles:
+- 10
+- 13
+- 14
+- 15
+- 21
+security_challenges:
+- bias
+- data poisoning
+- prompt injection
+- data privacy
+recommendations:
+- fairness checks
+- secure data pipelines
+- privacy by design
+- audits
+roadmap:
+- data governance
+- transparency reports
+- bias tests
+- incident response
+- regulatory collaboration

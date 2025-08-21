@@ -1,0 +1,25 @@
+scenario: Predictive Maintenance in Manufacturing
+risk_level: high
+articles:
+- 9
+- 10
+- 13
+- 14
+- 15
+- 16
+security_challenges:
+- data poisoning
+- evasion attacks
+- API attacks
+- bias
+recommendations:
+- data integrity checks
+- secure APIs
+- red teaming
+- bias analysis
+roadmap:
+- risk management
+- data governance
+- monitoring
+- robustness tests
+- incident response
