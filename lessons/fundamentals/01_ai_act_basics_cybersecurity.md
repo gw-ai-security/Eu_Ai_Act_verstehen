@@ -50,7 +50,7 @@ Dies ist die erste Stufe (Erinnern) nach der Bloomschen Taxonomie.
 
 ---
 
-## 🛠 Praxis-Transfer
+## Praxis-Transfer
 Stelle dir ein Unternehmen vor, das ein **KI-System für vorausschauende Wartung (Predictive Maintenance)** entwickelt.  
 Überlege:  
 - Welche Artikel wären für Cybersecurity besonders relevant?  
@@ -58,7 +58,7 @@ Stelle dir ein Unternehmen vor, das ein **KI-System für vorausschauende Wartung
 
 ---
 
-## 📌 Nächste Schritte
+## Nächste Schritte
 - Vertiefung auf Level 2 (Verstehen): Bedeutung von *Robustheit, Sicherheit und Genauigkeit* (Art. 15).  
 - Vergleich mit etablierten Standards (ISO, NIST, ENISA).
 
